@@ -33,7 +33,7 @@ def check_response(response):
     elif response == "help":
         print("help : prints list of commands and what they do")
         print("load : loads a file")
-        print("compiles and runs the code")
+        print("run : compiles and runs the code")
     else:
         print("Not A Command")
 

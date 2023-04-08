@@ -1,0 +1,14 @@
+Variables:
+Declare Number Variable: (variable_name) is numbers
+Declare Letters Variable: (variable_name) is letters
+Set Variable Value: (variable_name) is (variable_value)
+
+Console:
+Output To The Console: console.write in (value)
+Input From The Console (Can Be Used As Variable Value): console.read
+
+Comments:
+Make Code Skipped: monke.hideline (any text)
+
+Jump If:
+Jumps To A Line Of Code If A Variable Is 0: jump if 0 (Variable) to (Line To Jump To)

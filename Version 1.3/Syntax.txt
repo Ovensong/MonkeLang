@@ -1,0 +1,22 @@
+Variables:
+Declare Number Variable: (variable name) is numbers
+Declare Letters Variable: (variable name) is letters
+Set Variable Value: (variable name) is (variable value)
+Set Variable Value To List Value: (variable Name) is list.(List Name).(Index)
+Set Variable To Random Value: (Variable Name) is (Lowest Value) random (Highest Value)
+
+Console:
+Output To The Console: console.write in (value)
+Input From The Console (Can Be Used As Variable Value): console.read
+
+Comments:
+Make Code Skipped: monke.hideline (any text)
+
+Jumps:
+Jumps To A Line Of Code If A Variable Is A Certain Value: jump if (Value) (Variable) to (Line To Jump To)
+Jumps To A Line Of Code If A Variable Isn't A Certain Value: jump if not (Value) (Variable) to (Line To Jump To)
+Jumps To A Line Of Code: jump to (Line To Jump To)
+
+Lists:
+Declare A List: (List Name) is lists
+Add To A List: (List Name).add (Value)
